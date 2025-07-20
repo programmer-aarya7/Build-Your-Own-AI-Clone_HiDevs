@@ -1,4 +1,4 @@
-# Say Hi to  Askie 🤖: Your Personalized AI Clone Chatbot (RAG + Mistral + FAISS)
+# Say Hi to  Askie 🤖: Your Personalized AI Clone Chatbot 
 
 > 📚 Upload. 🌐 Link. ❓ Ask. 💡 Answer.  
 > Meet **Askie** – your curious companion, not just a bot but your knowledge champion!
