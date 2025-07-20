@@ -41,6 +41,19 @@ Askie is a **Retrieval-Augmented Generation (RAG)** based chatbot that allows us
 
 ---
 
+## 📁 Project Structure
+
+Askie/
+├── app.py                   # Streamlit frontend
+├── rag_pipeline.py          # RAG chain logic
+├── utils/
+│   └── chunking.py          # Chunking logic for PDF & URLs
+├── .env                     # Arize API keys and configs
+├── data/                    # Uploaded PDF files
+└── README.md
+
+---
+
 ##  How Askie Works (Step-by-Step)
 
 ### 1️⃣ Upload or Input
